@@ -1,0 +1,7 @@
+{
+  "name": "javasripts",
+  "version": "1.0.0",
+  "dependencies": {
+    "hexlet-basics": "^1.0.0"
+  }
+}
